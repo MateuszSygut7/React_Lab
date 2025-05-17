@@ -1,4 +1,4 @@
-# Zaczynanie z Reactem
+# Początek z Reactem
 
 Ten projekt został uruchomiony z [Create React App](https://github.com/facebook/create-react-app).
 
