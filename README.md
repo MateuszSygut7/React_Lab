@@ -10,6 +10,7 @@ W tym projekcie możesz odpalić:
 
 Uruchamia aplikację w trybie deweloperskim.\
 Open [http://localhost:3000](http://localhost:3000) aby wyświetlić go w przeglądarce.
+![Zrzut ekranu aplikacji](./public/localhost.png)
 
 Ta strona się odświeży, kiedy wprowadzisz jakieś zmiany.\
 W konsoli mogą również pojawić się błędy.
@@ -21,50 +22,50 @@ Więcej informacji można znaleźć w sekcji [running tests](https://facebook.gi
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Buduje aplikację produkcyjną w folderze `build`.
+Poprawnie łączy Reacta w trybie produkcyjnym i optymalizuje kompilację pod kątem najlepszej wydajności.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Kompilacja jest zminifikowana, a nazwy plików zawierają skróty.
+Twoja aplikacja jest gotowa do wdrożenia!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Więcej informacji w sekcji [deployment](https://facebook.github.io/create-react-app/docs/deployment).
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Uwaga: jest to operacja jednokierunkowa. Po `wyrzuceniu` nie można już wrócić!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Jeśli nie jesteś zadowolony z wyboru narzędzia kompilacji i konfiguracji, możesz w dowolnym momencie `eject`. To polecenie usunie pojedynczą zależność kompilacji z projektu.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Zamiast tego skopiuje wszystkie pliki konfiguracyjne i zależności przechodnie (webpack, Babel, ESLint itp.) bezpośrednio do projektu, dzięki czemu będziesz mieć nad nimi pełną kontrolę. Wszystkie polecenia z wyjątkiem `eject` będą nadal działać, ale będą wskazywać na skopiowane skrypty, dzięki czemu będzie można je dostosować. W tym momencie jesteś zdany na siebie.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Nie musisz nigdy używać `eject`. Zestaw funkcji jest odpowiedni dla małych i średnich wdrożeń i nie powinieneś czuć się zobowiązany do korzystania z tej funkcji. Rozumiemy jednak, że to narzędzie nie byłoby przydatne, gdybyś nie mógł go dostosować, gdy będziesz na to gotowy.
 
-## Learn More
+## Więcej
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Możesz dowiedzieć się więcej [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+By poznać React, sprawdź [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Podział kodu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Analiza rozmiaru pakietu
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Tworzenie progresywnej aplikacji internetowej
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Zaawansowana konfiguracja
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Wdrożenie
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+### `npm run build` błędy minifikowania
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
