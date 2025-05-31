@@ -17,6 +17,10 @@ function App() {
         >
           Poznaj reakt
         </a>
+
+        <nav>
+          <a href="contact.html">Kontakt</a>
+        </nav>
       </header>
     </div>
   );
