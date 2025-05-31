@@ -18,9 +18,9 @@ function App() {
           Poznaj reakt
         </a>
 
-        av>
- <a href="contact.html">Kontakt</a>
-</nav>
+        <nav>
+          <a href="contact.html">Kontakt</a>
+        </nav>
       </header>
     </div>
   );
