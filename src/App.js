@@ -20,6 +20,8 @@ function App() {
 
         <nav>
           <a href="contact.html">Kontakt</a>
+          <a href="buy.html">Kup</a>
+          <a href="aboutus.html">o nas</a>
         </nav>
       </header>
     </div>
