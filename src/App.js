@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Poznaj reakt
+          Poznaj reakt - DESIGN B
         </a>
 
         <nav>
