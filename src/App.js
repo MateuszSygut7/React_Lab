@@ -15,11 +15,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Poznaj reakt - DESIGN B
+          Poznaj reakt - DESIGN A i B
         </a>
 
         <nav>
           <a href="contact.html">Kontakt</a>
+          <a href="buy.html">Kup</a>
+          <a href="aboutus.html">o nas</a>
         </nav>
       </header>
     </div>
