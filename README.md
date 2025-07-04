@@ -61,30 +61,3 @@ Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app
 ### Zaawansowana konfiguracja
 
 Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-## Calculator.power(a, b)
-
-Podnosi `a` do potęgi `b`.
-
-### Parametry:
-- `a` (int lub float): podstawa
-- `b` (int lub float): wykładnik
-
-### Zwraca:
-- `a` podniesione do potęgi `b`
-
-### Przykłady:
-```python
-calc = Calculator()
-calc.power(2, 3)    # => 8
-calc.power(5, 0)    # => 1
-calc.power(2, -1)   # => 0.5
-
-
-### Wdrożenie
-
-Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` błędy minifikowania
-
-Sekcja została przeniesiona tutaj: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
